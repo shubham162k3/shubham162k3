@@ -1,5 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Shuubhhaammm&color=blue&style=flat-square)
-# 👋 Hi, I'm Shuubhhaammm!
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham162k3&color=blue&style=flat-square)
+# 👋 Hi, I'm Shubham!
 
 I'm a passionate developer who loves to learn, create, and solve real-world problems using technology. With expertise in a wide range of programming languages, tools, and frameworks, I strive to deliver neat and efficient solutions. 🚀
 
@@ -77,8 +77,8 @@ Here are some of my proudest projects:
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuubhhaammm&show_icons=true&theme=radical)
-![Streak Stats](https://img.shields.io/streak-stats.herokuapp.com/?user=Shuubhhaammm&theme=radical&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham162k3&show_icons=true&theme=radical)
+![Streak Stats](https://img.shields.io/streak-stats.herokuapp.com/?user=Shubham162k3&theme=radical&hide_border=true)
 
 ---
 
